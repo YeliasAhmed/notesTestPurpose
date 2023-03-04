@@ -1,2 +1,6 @@
 Another file is created to push
+<<<<<<< HEAD
 Now editing this file and finally editing
+=======
+merging branch locally 
+>>>>>>> file-merging-locally
